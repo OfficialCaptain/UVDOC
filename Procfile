@@ -1,1 +1,1 @@
-web: gunicorn uvdocdash.wsgi.py
+web: gunicorn uvdoc.wsgi
